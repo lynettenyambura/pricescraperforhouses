@@ -1,0 +1,14 @@
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs
+*.log
